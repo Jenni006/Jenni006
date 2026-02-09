@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Engineering student specializing in AI & ML, currently working on a Machine Learning research project and full-stack applications.<br>I’m looking to collaborate on AI/ML and impactful tech projects.<br>I enjoy building data-driven applications using Python and REST APIs<br>Tech Stack: Python, Java, Node.js, Django, Express.js, SQL, React<br>I’m open to collaborating on AI/ML and backend projects 
+I'm a Computer Science Engineering student specializing in AI & ML, currently working on a Machine Learning research project and full-stack applications.<br>I’m looking to collaborate on AI/ML and impactful tech projects.<br>I enjoy building data-driven applications using Python and REST APIs<br>Tech Stack: Python, Java, Node.js, Express.js, SQL, React<br>I’m open to collaborating on AI/ML and backend projects 
 
 
 ## 🌐 Socials:
