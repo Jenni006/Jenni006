@@ -57,5 +57,5 @@ Hey, I'm Jennifer 👋<br>CS undergrad @ SRMIST specialising in AI & ML. I build
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Jenni006&color=blue)](https://komarev.com)
+![](https://komarev.com/ghpvc/?username=Jenni006&color=blue)
 
